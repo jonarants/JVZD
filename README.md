@@ -10,4 +10,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 ## Tecnologías
 - Java SpringBoot
 
-Cambio para commit
+Cambio para commit ejercicio QA
